@@ -1,0 +1,121 @@
+.sidebar-item{
+    box-sizing: border-box;
+    border: 1px solid #fff;
+    border-radius: 4px;
+}
+.sidebar-title
+{
+   margin-left: 1rem;
+   
+}
+
+.sidebar-title h3{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+   border: 1px solid #111;
+   padding: 0.5rem 0.5rem 0.5rem 3rem;
+     background-color: #E9DCC9;
+     margin-left: -1rem;
+     margin-right: 2rem;
+     width: 15rem;
+
+}
+
+.id-1{
+    border: 1px solid #fff;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 15rem;
+    margin-left: -1rem;
+    margin-top: -0.9rem;
+    height: 15rem;
+
+
+}
+.id-1 li{
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+.id-6{
+    border: 1px solid #fff;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 15rem;
+    margin-left: -1rem;
+    margin-top: -0.9rem;
+    height: 12rem;
+
+
+}
+.id-6 li{
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+
+.id-2{
+    border: 1px solid #fff;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 15rem;
+    margin-left: -1rem;
+    margin-top: -0.9rem;
+    height: 11rem;
+
+
+}
+.id-2 li{
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+
+.id-3{
+    border: 1px solid #fff;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 15rem;
+    margin-left: -1rem;
+    margin-top: -0.9rem;
+    height: 6rem;
+
+
+}
+.id-3 li{
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.id-4{
+    border: 1px solid #fff;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 15rem;
+    margin-left: -1rem;
+    margin-top: -0.9rem;
+    height: 6rem;
+
+
+}
+.id-4 li{
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
+.id-5{
+    border: 1px solid #fff;
+    background-color: whitesmoke;
+    list-style-type: none;
+    width: 15rem;
+    margin-left: -1rem;
+    margin-top: -0.9rem;
+    height: 6rem;
+
+
+}
+.id-5 li{
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+}
+
